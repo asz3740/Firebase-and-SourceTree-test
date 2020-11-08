@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://unity-test-b11a9.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">254067941558</string>
+  <string name="google_storage_bucket" translatable="false">unity-test-b11a9.appspot.com</string>
+  <string name="project_id" translatable="false">unity-test-b11a9</string>
+  <string name="google_api_key" translatable="false">AIzaSyCGaZ1A6_UQM1TxJjiPbicUDpEvdGdKRsE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGaZ1A6_UQM1TxJjiPbicUDpEvdGdKRsE</string>
+  <string name="google_app_id" translatable="false">1:254067941558:android:5f58570586b06b79e08617</string>
+  <string name="default_android_client_id" translatable="false">254067941558-uuql6fm51gauqoe5dbvfho8gn80dcovg.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">254067941558-m9pdk72a03jemf6rhpe3kqrg9kfmm1gp.apps.googleusercontent.com</string>
+</resources>

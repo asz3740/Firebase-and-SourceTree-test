@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254067941558",
+    "firebase_url": "https://unity-test-b11a9.firebaseio.com",
+    "project_id": "unity-test-b11a9",
+    "storage_bucket": "unity-test-b11a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254067941558:android:5f58570586b06b79e08617",
+        "android_client_info": {
+          "package_name": "com.gunman.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254067941558-uuql6fm51gauqoe5dbvfho8gn80dcovg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gunman.firebase",
+            "certificate_hash": "64bbbca6cc76fcd44c2a7454ee3760371c845e0c"
+          }
+        },
+        {
+          "client_id": "254067941558-m9pdk72a03jemf6rhpe3kqrg9kfmm1gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaZ1A6_UQM1TxJjiPbicUDpEvdGdKRsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254067941558-m9pdk72a03jemf6rhpe3kqrg9kfmm1gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
